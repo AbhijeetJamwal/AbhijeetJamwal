@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhijeetJamwal
-- 👀 I’m interested in AI and machine learning
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Data Science And AIML
+- 🌱 I’m currently learning Data Science
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
